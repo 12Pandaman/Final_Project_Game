@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shelf
+  - Pot
+  - Table
+  - Plant
+  - Scissor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Cat
+  - 
+  - Shelf
+  - Table
+  - Plants
+  - Jar
+  - Scissors
+  - holeLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 1101030563
+    locked: 0
+  - name: shelf
+    uniqueID: 4160389267
+    locked: 0
+  - name: cat
+    uniqueID: 4274535897
+    locked: 0
+  - name: table
+    uniqueID: 1470361691
+    locked: 0
+  - name: pot
+    uniqueID: 400649353
+    locked: 0
+  - name: UI
+    uniqueID: 3876412531
+    locked: 0
